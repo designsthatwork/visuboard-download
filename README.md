@@ -1,5 +1,7 @@
 # VisuBoard
 
+![VisuBoard Logo](icon.png)
+
 **Unbelievably simple digital signage for Android tablets.** VisuBoard turns
 any tablet into a fullscreen, auto-playing showcase for your images and
 videos - no cables, no subscriptions, no complicated setup. Import your
@@ -46,6 +48,8 @@ Older versions are available on the [Releases page](../../releases).
 6. Tap **Start Presentation** to begin.
 
 ## Support
+
+![Ko-fi Logo](logomarkLogo2024.png)
 
 VisuBoard is free to use. If it helps your business, consider supporting
 development on ☕️ [Ko-fi](https://ko-fi.com/designsthatwork).
