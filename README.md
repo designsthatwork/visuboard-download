@@ -15,6 +15,12 @@ APK from [Releases](../../releases/latest) and sideload it onto your tablet.
 ➡️ **[Download the latest APK](../../releases/latest)**
 
 Older versions are available on the [Releases page](../../releases).
+See [CHANGELOG.md](CHANGELOG.md) for what's new in each version.
+
+## Requirements
+
+- Android 7.0 (Nougat) or newer
+- A tablet with a touchscreen
 
 ## Installation
 
@@ -47,6 +53,20 @@ Older versions are available on the [Releases page](../../releases).
    your slides.
 6. Tap **Start Presentation** to begin.
 
+## FAQ
+
+**Is my media uploaded anywhere?**
+No. VisuBoard works entirely offline - imported files are copied into local
+app storage on the tablet and never leave the device.
+
+**Will the installed APK trigger a "Play Protect" warning?**
+Yes, likely - this is expected for any app installed outside the Play Store.
+Tap "Install anyway" if you trust the source (this repository).
+
+**How do I update?**
+Download the latest APK from [Releases](../../releases/latest) and install
+over the existing app. Your media and settings are preserved.
+
 ## Support
 
 ![Ko-fi Logo](logomarkLogo2024.png)
@@ -56,4 +76,4 @@ development on ☕️ [Ko-fi](https://ko-fi.com/designsthatwork).
 
 ## About
 
-Built by [Designs that Work](https://github.com/designsthatwork).
+Built with ❤️ by [Designs that Work](https://github.com/designsthatwork).
