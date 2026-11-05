@@ -3,6 +3,18 @@
 All notable changes to VisuBoard are documented here.
 Format based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [1.2.4] - 2026-11-05
+
+### Fixed
+- Quit Application button did nothing on desktop (missing window
+  permission)
+- Linux AppImage crashed at startup on Fedora/Arch because WebKit
+  helper processes were looked up at a Debian-only absolute path
+
+### Changed
+- Desktop installers are unsigned; macOS builds now ship as DMG only
+  with standardized aarch64/x64 naming
+
 ## [1.2.3] - 2026-10-31
 
 ### Added
