@@ -98,7 +98,7 @@ Download the latest release for your platform and install over the existing vers
 
 ## Support
 
-![Ko-fi Logo](logomarkLogo2024.png)
+![Ko-fi Logo](https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_beige.png)
 
 VisuBoard is free to use. If it helps your business, consider supporting development on ☕️ [Ko-fi](https://ko-fi.com/designsthatwork).
 
