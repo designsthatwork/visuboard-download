@@ -16,9 +16,9 @@ changes are grouped under `### Mobile` and `### Desktop`.
 #### Added
 - Android TV support: the app now appears on the TV home screen with a
   dedicated banner tile, and installs on non-touchscreen devices
-- Remote-friendly controls: hold the OK button on the remote to open
-  settings (same gesture as touch press-and-hold), D-pad arrows move
-  between controls in the settings sheet, and Back closes it
+- Remote-friendly controls: press the OK button on the remote three
+  times in a row to open settings, D-pad arrows move between controls
+  in the settings sheet, and Back closes it
 - TV usage notes in the Help tab, including a codec caveat (MP4/H.264
   plays reliably; HEVC/MKV may not decode on every TV box)
 
